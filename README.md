@@ -5,6 +5,11 @@ Dalina Canhasi
 Business Intelligence & Data Analytics Portfolio Project
 
 ---
+## Live Interactive Dashboard
+View the dashboard online:
+https://app.powerbi.com/view?r=YOUR_LINK_HERE
+
+---
 
 ## Overview
 This project demonstrates an end-to-end Business Intelligence solution built in Power BI using a financial services / structured products use case.
@@ -107,4 +112,5 @@ Monitors service delivery efficiency:
 
 ## Notes
 All data is synthetic and created for demonstration purposes only.
+
 
